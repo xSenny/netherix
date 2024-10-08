@@ -1,4 +1,3 @@
-import React from 'react'
 import { LayoutGrid } from './ui/layout-grid'
 import { Collection } from '../lib/utils'
 
